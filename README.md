@@ -1,4 +1,4 @@
-SimpleLog
-=========
+sublime-simplelog
+=================
 
-SimpleLog syntax for SublimeText
+<a href=http://hackage.haskell.org/package/simple-log>SimpleLog</a> syntax for Sublime Text 2
